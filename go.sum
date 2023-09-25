@@ -143,8 +143,8 @@ github.com/aws/aws-sdk-go-v2/service/redshift v1.27.7 h1:fKg773iDMTGUxd8UNkEfwYG
 github.com/aws/aws-sdk-go-v2/service/redshift v1.27.7/go.mod h1:jLAH4E3fjUxkBhu7vcx7eCSurnq7q1qMyAB1VZvvbAk=
 github.com/aws/aws-sdk-go-v2/service/s3 v1.27.11 h1:3/gm/JTX9bX8CpzTgIlrtYpB3EVBDxyg/GY/QdcIEZw=
 github.com/aws/aws-sdk-go-v2/service/s3 v1.27.11/go.mod h1:fmgDANqTUCxciViKl9hb/zD5LFbvPINFRgWhDbR+vZo=
-github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.16.2 h1:3x1Qilin49XQ1rK6pDNAfG+DmCFPfB7Rrpl+FUDAR/0=
-github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.16.2/go.mod h1:HEBBc70BYi5eUvxBqC3xXjU/04NO96X/XNUe5qhC7Bc=
+github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.21.3 h1:H6ZipEknzu7RkJW3w2PP75zd8XOdR35AEY5D57YrJtA=
+github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.21.3/go.mod h1:5W2cYXDPabUmwULErlC92ffLhtTuyv4ai+5HhdbhfNo=
 github.com/aws/aws-sdk-go-v2/service/sns v1.20.10 h1:pJ/iXyg9aD5Hg2FRHQjrWPDyabsP6R3aqxaXqscAVKk=
 github.com/aws/aws-sdk-go-v2/service/sns v1.20.10/go.mod h1:WjBcrd28zNbbuAcIRO/n89sSeOxTuOZPiuxNXU/2WrI=
 github.com/aws/aws-sdk-go-v2/service/sqs v1.24.2 h1:mRbGHR2/S9wjls8OD6g4zF1J0JUcui/FotBs22o6QSs=

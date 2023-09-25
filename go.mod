@@ -37,7 +37,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/rds v1.26.1
 	github.com/aws/aws-sdk-go-v2/service/redshift v1.27.7
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.27.11
-	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.16.2
+	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.21.3
 	github.com/aws/aws-sdk-go-v2/service/sns v1.20.10
 	github.com/aws/aws-sdk-go-v2/service/sqs v1.24.2
 	github.com/aws/aws-sdk-go-v2/service/sts v1.21.2
