@@ -36,8 +36,8 @@ github.com/aws/aws-sdk-go-v2 v1.20.2/go.mod h1:NU06lETsFm8fUC6ZjhgDpVBcGZTFQ6XM+
 github.com/aws/aws-sdk-go-v2 v1.21.0 h1:gMT0IW+03wtYJhRqTVYn0wLzwdnK9sRMcxmtfGzRdJc=
 github.com/aws/aws-sdk-go-v2 v1.21.0/go.mod h1:/RfNgGmRxI+iFOB1OeJUyxiU+9s88k3pfHvDagGEp0M=
 github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.4.8/go.mod h1:JTnlBSot91steJeti4ryyu/tLd4Sk84O5W22L7O2EQU=
-github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.4.12 h1:lN6L3LrYHeZ6xCxaIYtoWCx4GMLk4nRknsh29OMSqHY=
-github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.4.12/go.mod h1:TDCkEAkMTXxTs0oLBGBKpBZbk3NLh8EvAfF0Q3x8/0c=
+github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.4.13 h1:OPLEkmhXf6xFPiz0bLeDArZIDx1NNS4oJyG4nv3Gct0=
+github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.4.13/go.mod h1:gpAbvyDGQFozTEmlTFO8XcQKHzubdq0LzRyJpG6MiXM=
 github.com/aws/aws-sdk-go-v2/config v1.18.33 h1:JKcw5SFxFW/rpM4mOPjv0VQ11E2kxW13F3exWOy7VZU=
 github.com/aws/aws-sdk-go-v2/config v1.18.33/go.mod h1:hXO/l9pgY3K5oZJldamP0pbZHdPqqk+4/maa7DSD3cA=
 github.com/aws/aws-sdk-go-v2/credentials v1.13.32 h1:lIH1eKPcCY1ylR4B6PkBGRWMHO3aVenOKJHWiS4/G2w=
@@ -131,8 +131,8 @@ github.com/aws/aws-sdk-go-v2/service/kinesis v1.15.19 h1:qVaBkJxFxm6o/9DPNnJU6L9
 github.com/aws/aws-sdk-go-v2/service/kinesis v1.15.19/go.mod h1:9rLNg+J9SEe7rhge/YzKU3QTovlLqOmqH8akb0IB1ko=
 github.com/aws/aws-sdk-go-v2/service/kms v1.24.3 h1:N2fqUgPte/d79PwmdW8ulqqwmSd80SkS3kATCDJWTUk=
 github.com/aws/aws-sdk-go-v2/service/kms v1.24.3/go.mod h1:7qBt6HWbxf0+cENXelntj1ZgmBZvM7ABGqgZzcC7F0I=
-github.com/aws/aws-sdk-go-v2/service/lambda v1.39.3 h1:8T6YpLdpu7wqPr9RZALRJWEm+NbkQykzN6Mdy2lOIQw=
-github.com/aws/aws-sdk-go-v2/service/lambda v1.39.3/go.mod h1:PxfJo3p3ze0lFI8Zsu0tqjB2edJu2ZAEzQzT2LQUY3o=
+github.com/aws/aws-sdk-go-v2/service/lambda v1.39.5 h1:uMvxJFS92hNW6BRX0Ou+5zb9DskgrJQHZ+5yT8FXK5Y=
+github.com/aws/aws-sdk-go-v2/service/lambda v1.39.5/go.mod h1:ByLHcf0zbHpyLTOy1iPVRPJWmAUPCiJv5k81dt52ID8=
 github.com/aws/aws-sdk-go-v2/service/mq v1.15.0 h1:Z1q5y9q4feZb/h2H4D+MHqGflTEeyZH6MarBG6o00ng=
 github.com/aws/aws-sdk-go-v2/service/mq v1.15.0/go.mod h1:CT2bVyhH6LN35rLvJ98OxFtjMruG1zCtn5rDi9rZs9M=
 github.com/aws/aws-sdk-go-v2/service/neptune v1.20.7 h1:cZ5WMVZeKBJZDNliJiEXjU3A+5sqCkXm8UE7ZsZGZN8=
