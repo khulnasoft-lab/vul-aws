@@ -40,7 +40,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.16.2
 	github.com/aws/aws-sdk-go-v2/service/sns v1.20.10
 	github.com/aws/aws-sdk-go-v2/service/sqs v1.24.2
-	github.com/aws/aws-sdk-go-v2/service/sts v1.21.2
+	github.com/aws/aws-sdk-go-v2/service/sts v1.22.0
 	github.com/aws/aws-sdk-go-v2/service/workspaces v1.23.0
 	github.com/khulnasoft-lab/defsec v1.0.4
 	github.com/khulnasoft-lab/go-mock-aws v1.0.0
@@ -69,7 +69,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.9.13 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.1.18 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.7.32 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.9.32 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.9.35 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.13.17 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sso v1.13.2 // indirect
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.15.2 // indirect
