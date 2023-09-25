@@ -25,7 +25,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/eks v1.27.14
 	github.com/aws/aws-sdk-go-v2/service/elasticache v1.26.8
 	github.com/aws/aws-sdk-go-v2/service/elasticloadbalancingv2 v1.19.11
-	github.com/aws/aws-sdk-go-v2/service/elasticsearchservice v1.19.0
+	github.com/aws/aws-sdk-go-v2/service/elasticsearchservice v1.20.6
 	github.com/aws/aws-sdk-go-v2/service/emr v1.24.4
 	github.com/aws/aws-sdk-go-v2/service/iam v1.22.3
 	github.com/aws/aws-sdk-go-v2/service/kafka v1.19.4
